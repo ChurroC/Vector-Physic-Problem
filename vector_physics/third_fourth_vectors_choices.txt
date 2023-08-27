@@ -1,0 +1,8 @@
+[
+    { 7: [(21, 6), (27, 6), (30, 6), (40, 6)] },
+    { 12: [(22, 6), (30, 6), (34, 6), (39, 6)] },
+    { 19: [(22, 6), (29, 4), (31, 4), (40, 4)] },
+    { 9: [(53, 6), (19, 3), (50, 3)] },
+]
+
+first number is 3 vector choice and the next numbers next to is the 4 choice and prequency. If you choose 7 choose 21 next since it occurs 6 times in the future.
