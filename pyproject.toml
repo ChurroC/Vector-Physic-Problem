@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "vector-physics"
+version = "0.1.0"
+description = ""
+authors = ["ChurroC <charanvenkatchandran@gmail.com>"]
+readme = "README.md"
+packages = [{include = "vector_physics"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+ipykernel = "^6.25.1"
+pillow = "^10.0.0"
+pytesseract = "^0.3.10"
+
+
+[tool.poetry.group.dev.dependencies]
+jupyter = "^1.0.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
